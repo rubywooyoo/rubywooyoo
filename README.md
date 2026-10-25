@@ -22,4 +22,4 @@ I automated recruitment workflows and built a full-stack platform to help recrui
 ### 🤍 Let's Connect
 
 Feel free to reach out and say hello!  
-📬 Email: [jessie910812@gmail.com](mailto:jessie910812@gmail.com) · 💼 LinkedIn [Ruby Wei](https://www.linkedin.com/in/ruby-wei-b12584296/)
+📬 Email: [jessie910812@gmail.com](mailto:jessie910812@gmail.com) · 💼 LinkedIn: [Ruby Wei](https://www.linkedin.com/in/ruby-wei-b12584296/)
